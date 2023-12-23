@@ -1,5 +1,6 @@
 import numpy as np
 from .metrics import accuracy_score
+from sklearn.linear_model import LogisticRegression
 
 
 class LogisticRegression:
